@@ -11,6 +11,11 @@ Save and submit the completed file for your homework submission.
 1. Command to **extract** the `TarDocs.tar` archive to the current directory:
 
         tar -xvf TarDocs.tar
+        
+
+![First Picture](image/Homework_5-1.PNG) 
+        
+        
 
 2. Command to **create** the `Javaless_Doc.tar` archive from the `TarDocs/` directory, while excluding the `TarDocs/Documents/Java` directory:
 
